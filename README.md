@@ -5,7 +5,7 @@ A simple and modern React app that fetches user data from an API and displays it
 ---
 
 ## 🌐 Live Preview
-👉 **[https://github.com/sudhanshuverse/react-shimmer-fetch.git](https://github.com/sudhanshuverse/react-shimmer-fetch.git)**  
+👉 **[https://sudhanshuverse.github.io/react-shimmer-fetch](https://sudhanshuverse.github.io/react-shimmer-fetch)**  
 
 ---
 
